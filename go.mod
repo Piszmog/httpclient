@@ -1,1 +1,1 @@
-module httpclient
+module github.com/Piszmog/httpclient
